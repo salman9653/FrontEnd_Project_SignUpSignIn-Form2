@@ -71,7 +71,10 @@ button.ghost {
 	background-color: transparent;
 	border-color: #FFFFFF;
 }
-
+button.ghost:hover{
+	background-color: #fff;
+	border-color:#d16fcc ;
+}
 form {
 	background-color: #FFFFFF;
 	display: flex;
