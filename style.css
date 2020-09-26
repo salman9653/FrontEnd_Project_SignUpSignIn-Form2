@@ -73,7 +73,7 @@ button.ghost {
 }
 button.ghost:hover{
 	background-color: #fff;
-	border-color:#d16fcc ;
+	color: #d16fcc ;
 }
 form {
 	background-color: #FFFFFF;
